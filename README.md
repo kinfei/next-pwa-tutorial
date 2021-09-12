@@ -2,6 +2,8 @@
 
 Boilerplate for next.js with pwa
 
+[Link to Demo](https://main.d2yj4nmm2uu8ij.amplifyapp.com/)
+
 ## How to Run
 
 ```bash
@@ -22,5 +24,3 @@ $ yarn build
 ```bash
 $ yarn deploy
 ```
-
-[Link to Demo](https://main.d2yj4nmm2uu8ij.amplifyapp.com/)
